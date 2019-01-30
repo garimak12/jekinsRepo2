@@ -1,1 +1,2 @@
 GitJenkins.txt	Hello.class  Hello.java
+SUCCESS
